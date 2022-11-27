@@ -23,3 +23,10 @@ Oct. 2020-2022            *North Taxi, Daher al-aain – Call center && Data ent
 
 * Learning by teaching, research, communication, training, analytical skills, strategy games,
 customer service, problem-solving, project management, planning, Git, Git Hub, Git Lab.
+
+# PROJECTS
+
+* Build a portfolio website
+* Using HTML & CSS
+* It includes personal information. Similar to a CV in a
+* dynamic way and viewers can see the comments.
